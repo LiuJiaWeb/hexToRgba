@@ -1,0 +1,19 @@
+{
+  "name": "hextorgba",
+  "version": "1.0.0",
+  "description": "hex转为rgba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiuJiaWeb/hexToRgba.git"
+  },
+  "author": "liujia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiuJiaWeb/hexToRgba/issues"
+  },
+  "homepage": "https://github.com/LiuJiaWeb/hexToRgba#readme"
+}
