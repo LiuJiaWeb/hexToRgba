@@ -1,6 +1,6 @@
 {
   "name": "@liujiaweb/hextorgba",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hex转为rgba",
   "main": "index.js",
   "scripts": {
